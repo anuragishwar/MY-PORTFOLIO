@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Anurag Kumar Ishwar — Portfolio Website
 
-## Getting Started
+An ultra-modern, high-performance personal portfolio website built with the latest **Next.js 16 (Turbopack)** and **Tailwind CSS v4**. It features a futuristic cyberpunk dark theme with glowing neon animations, designed to showcase projects and expertise in Full-Stack Development and Artificial Intelligence.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 PREMIUM LIVE PRODUCTION DEPLOYMENT
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Aap niche diye gaye premium badge par click karke is cyber-portfolio ka live demonstration dekh sakte hain:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Live Demo](https://img.shields.io/badge/PREMIUM_LIVE_DEMO-anuragishwarportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6A0DAD&color=00FFFF&boxShadow=0_0_15px_#00FFFF)](https://anuragishwarportfolio.vercel.app)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+> **💡 Quick Link:** [https://anuragishwarportfolio.vercel.app](https://anuragishwarportfolio.vercel.app)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack & Architecture
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Framework:** Next.js 16.2.10 (App Router)
+- **Compiler:** Turbopack (Blazing fast hot reloads)
+- **Styling:** Tailwind CSS v4 (Using `@tailwindcss/postcss` architecture)
+- **Deployment Platform:** Vercel (Edge-optimized infrastructure)
+- **Icons:** Lucide React
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ✨ Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 🌌 **Cyberpunk Dark Aesthetics:** Immersive dark violet layout with custom ambient pulsing neon gradients (`blur-xl` and custom animations).
+- 🎨 **Dynamic Interactions:** Clean typography mixed with hover effects like smooth card expansions and clean profile photo transitions.
+- 💻 **Modular Structure:** Built with clean React hooks and strictly componentized code for fast scalability.
+- 📱 **Fully Responsive:** Tailored layout matrices seamlessly rendering from mobile screens up to 4K displays.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📁 Project Structure
+
+```text
+anurag-portfolio/
+├── app/
+│   ├── components/
+│   │   └── Portfolio.tsx     # Main portfolio sections (Hero, Skills, Projects)
+│   ├── globals.css           # Global layout & Tailwind v4 `@import` setup
+│   ├── layout.tsx            # Root wrapper
+│   └── page.tsx              # Application entryway
+├── public/
+│   └── profile.png           # Profile headshot rendered inside the neon shield
+├── next.config.ts            # Core Next.js configuration
+├── postcss.config.mjs        # Tailored PostCSS pipeline for Tailwind v4
+└── tailwind.config.ts        # Content tracking matrix
