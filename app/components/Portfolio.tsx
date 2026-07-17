@@ -185,15 +185,37 @@ export default function Portfolio() {
             </section>
 
             {/* FOOTER */}
+            {/* FOOTER */}
             <footer className="border-t border-white/5 bg-black/40 py-12 px-6 relative z-10">
                 <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
                     <p className="font-mono text-sm text-gray-500">
                         &copy; 2026 Anurag Kumar Ishwar. Built with bold neon passion.
                     </p>
+
+                    {/* 🔗 UPDATED SOCIAL LINKS WITH YOUR REAL LINKS */}
                     <div className="flex gap-6 text-gray-400 font-mono text-sm">
-                        <span className="cursor-pointer hover:text-white transition-colors">GitHub</span>
-                        <span className="cursor-pointer hover:text-white transition-colors">LinkedIn</span>
-                        <a href="mailto:anuragkumarishwar@gmail.com" className="hover:text-white transition-colors">Email</a>
+                        <a
+                            href="https://github.com/anuragishwar"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-white hover:text-cyan-400 transition-colors"
+                        >
+                            GitHub
+                        </a>
+                        <a
+                            href="https://www.linkedin.com/in/anuragishwar"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-white hover:text-fuchsia-400 transition-colors"
+                        >
+                            LinkedIn
+                        </a>
+                        <a
+                            href="mailto:officialanuragop@gmail.com"
+                            className="hover:text-white hover:text-pink-400 transition-colors"
+                        >
+                            Email
+                        </a>
                     </div>
                 </div>
             </footer>
