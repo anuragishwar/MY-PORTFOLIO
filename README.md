@@ -8,7 +8,7 @@ An ultra-modern, high-performance personal portfolio website built with the late
 
 Aap niche diye gaye premium badge par click karke is cyber-portfolio ka live demonstration dekh sakte hain:
 
-[![Live Demo](https://img.shields.io/badge/PREMIUM_LIVE_DEMO-anuragishwarportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6A0DAD&color=00FFFF&boxShadow=0_0_15px_#00FFFF)](https://anuragishwarportfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-anuragishwarportfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6A0DAD&color=00FFFF&boxShadow=0_0_15px_#00FFFF)](https://anuragishwarportfolio.vercel.app)
 
 > **💡 Quick Link:** [https://anuragishwarportfolio.vercel.app](https://anuragishwarportfolio.vercel.app)
 
