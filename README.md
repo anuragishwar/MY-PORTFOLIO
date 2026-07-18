@@ -4,7 +4,7 @@ An ultra-modern, high-performance personal portfolio website built with the late
 
 ---
 
-## 🌐 PREMIUM LIVE PRODUCTION DEPLOYMENT
+## 🌐 LIVE DEPLOYMENT
 
 Aap niche diye gaye premium badge par click karke is cyber-portfolio ka live demonstration dekh sakte hain:
 
