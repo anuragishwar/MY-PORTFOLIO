@@ -1,4 +1,4 @@
-# 🚀 Anurag Kumar Ishwar — Portfolio Website
+# 🚀 Anurag Kumar Ishwar — Portfolio
 
 An ultra-modern, high-performance personal portfolio website built with the latest **Next.js 16 (Turbopack)** and **Tailwind CSS v4**. It features a futuristic cyberpunk dark theme with glowing neon animations, designed to showcase projects and expertise in Full-Stack Development and Artificial Intelligence.
 
